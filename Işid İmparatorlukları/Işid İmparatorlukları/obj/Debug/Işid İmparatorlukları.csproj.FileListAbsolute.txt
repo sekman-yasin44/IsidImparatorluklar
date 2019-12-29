@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Işid İmparatorlukları\Işid İmparatorlukları\bin\Debug\Işid İmparatorlukları.exe.config
+C:\Users\pc\Desktop\Işid İmparatorlukları\Işid İmparatorlukları\bin\Debug\Işid İmparatorlukları.exe
+C:\Users\pc\Desktop\Işid İmparatorlukları\Işid İmparatorlukları\bin\Debug\Işid İmparatorlukları.pdb
+C:\Users\pc\Desktop\Işid İmparatorlukları\Işid İmparatorlukları\obj\Debug\Işid İmparatorlukları.exe
+C:\Users\pc\Desktop\Işid İmparatorlukları\Işid İmparatorlukları\obj\Debug\Işid İmparatorlukları.pdb
+D:\ \Işid İmparatorlukları\Işid İmparatorlukları\bin\Debug\Işid İmparatorlukları.exe.config
+D:\ \Işid İmparatorlukları\Işid İmparatorlukları\obj\Debug\Işid İmparatorlukları.exe
+D:\ \Işid İmparatorlukları\Işid İmparatorlukları\obj\Debug\Işid İmparatorlukları.pdb
+C:\Users\Techmo\Desktop\yedek\Işid İmparatorlukları\Işid İmparatorlukları\bin\Debug\Işid İmparatorlukları.exe.config
+C:\Users\Techmo\Desktop\yedek\Işid İmparatorlukları\Işid İmparatorlukları\bin\Debug\Işid İmparatorlukları.exe
+C:\Users\Techmo\Desktop\yedek\Işid İmparatorlukları\Işid İmparatorlukları\bin\Debug\Işid İmparatorlukları.pdb
+C:\Users\Techmo\Desktop\yedek\Işid İmparatorlukları\Işid İmparatorlukları\obj\Debug\Işid İmparatorlukları.csprojAssemblyReference.cache
+C:\Users\Techmo\Desktop\yedek\Işid İmparatorlukları\Işid İmparatorlukları\obj\Debug\Işid İmparatorlukları.csproj.CoreCompileInputs.cache
+C:\Users\Techmo\Desktop\yedek\Işid İmparatorlukları\Işid İmparatorlukları\obj\Debug\Işid İmparatorlukları.exe
+C:\Users\Techmo\Desktop\yedek\Işid İmparatorlukları\Işid İmparatorlukları\obj\Debug\Işid İmparatorlukları.pdb
